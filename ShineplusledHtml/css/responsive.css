@@ -1,0 +1,442 @@
+@media only screen and (min-width:1920px) {}
+
+@media only screen and (max-width:1650px) {}
+
+@media only screen and (max-width:1550px) {}
+
+@media only screen and (max-width:1366px) {
+    .security-customer-stamp {
+        padding: 50px 50px;
+    }
+
+    .light-beyon-main .light-beyond-image {
+        width: 85%;
+    }
+
+    .light-beyon-main .content-part {
+        width: 100%;
+        margin-top: 0px;
+    }
+
+    .client-logos {
+        height: 155px;
+        max-height: 155px;
+    }
+
+    .client-logos .image {
+        width: 135px;
+        height: 67px;
+    }
+}
+
+@media only screen and (max-width:1280px) {
+    .blog-sec-card-main .blog-sec-title h5 {
+        font-size: 25px;
+        height: 170px;
+        max-height: 170px;
+    }
+
+    .blog-sec-card-main {
+        padding: 15px 15px;
+    }
+}
+
+@media only screen and (max-width:1199px) {
+    .blog-sec-card-main .blog-sec-title h5 {
+        font-size: 23px;
+        height: 170px;
+        max-height: 170px;
+    }
+}
+
+@media only screen and (max-width:1025px) {
+    .quick-link {
+        width: 60%;
+    }
+
+    .blog-sec-card-main .blog-sec-title h5 {
+        font-size: 19px;
+        height: 140px;
+        max-height: 140px;
+    }
+
+    .content-part {
+        width: 80%;
+    }
+
+    .light-beyon-main .content-part {
+        width: 90%;
+        margin-top: 0px;
+    }
+
+    .our-content-content-sec h3 {
+        padding-bottom: 270px;
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .blog-sec-card-main .blog-sec-title h5 {
+        font-size: 25px;
+        height: 140px;
+        max-height: 140px;
+    }
+
+    .light-beyond-image {
+        display: none;
+    }
+
+    .faq-sec-main {
+        padding: 50px 0;
+    }
+
+    .testinomails-sec-main {
+        padding: 50px 0px 50px;
+    }
+
+    .our-client-sec-main {
+        padding: 50px 20px;
+    }
+}
+
+@media only screen and (max-width:820px) {
+    .quick-link {
+        width: 70%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .nav-mobile {
+        display: block;
+    }
+
+    .residential-commercial-outdoor-card {
+        grid-template-columns: 100%;
+    }
+
+    .common-image-part {
+        margin-top: 15px;
+    }
+
+    nav {
+        width: 100%;
+        padding: 55px 0 15px;
+    }
+
+    nav ul {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        z-index: 999;
+    }
+
+    nav ul {
+        display: none;
+    }
+
+    nav ul li {
+        float: none;
+    }
+
+    nav ul li a {
+        padding: 15px;
+        line-height: 20px;
+        background: #ffffff;
+    }
+
+    nav ul li ul li a {
+        padding-left: 30px;
+    }
+
+    .navbar-dropdown {
+        position: static;
+    }
+
+
+
+    #navbar-toggle {
+        position: absolute;
+        left: 18px;
+        top: 15px;
+        cursor: pointer;
+        padding: 10px 35px 16px 0px;
+    }
+
+    #navbar-toggle span,
+    #navbar-toggle span:before,
+    #navbar-toggle span:after {
+        cursor: pointer;
+        border-radius: 1px;
+        height: 3px;
+        width: 30px;
+        background: #000000;
+        position: absolute;
+        display: block;
+        content: '';
+        transition: all 300ms ease-in-out;
+    }
+
+    #navbar-toggle span:before {
+        top: -10px;
+    }
+
+    #navbar-toggle span:after {
+        bottom: -10px;
+    }
+
+    #navbar-toggle.active span {
+        background-color: transparent;
+    }
+
+    #navbar-toggle.active span:before,
+    #navbar-toggle.active span:after {
+        top: 0;
+    }
+
+    #navbar-toggle.active span:before {
+        transform: rotate(45deg);
+    }
+
+    #navbar-toggle.active span:after {
+        transform: rotate(-45deg);
+    }
+}
+
+
+@media only screen and (max-width:768px) {}
+
+@media only screen and (max-width:767px) {
+    .quick-link {
+        margin: unset;
+        width: 100%;
+    }
+
+    .common-content-part h3 {
+        font-size: 25px;
+    }
+
+    .security-customer-stamp .main-secure-part {
+        margin-bottom: 15px;
+    }
+    .residential-commercial-outdoor-card {
+        padding: 25px;
+    }
+    .security-customer-stamp .security-content-part h4 {
+        font-size: 21px;
+        margin-bottom: 10px;
+    }
+
+    .banner-slider-main h2.owl-title {
+        font-size: 60px;
+    }
+
+    .content-part h2 {
+        font-size: 21px;
+        width: 100%;
+    }
+
+    .security-customer-stamp {
+        padding: 50px 15px;
+    }
+
+    .lead-light-main {
+        padding: 20px 15px;
+        background: url(../images/red-lamp.jpg) no-repeat top / cover;
+        margin: 50px 15px 50px;
+        border-radius: 20px;
+    }
+
+    .our-client-sec-main {
+        padding: 50px 15px;
+    }
+
+    .testinomails-sec-main {
+        margin: 0 15px 40px;
+        padding: 25px 15px 25px;
+        border-radius: 20px;
+    }
+
+    .our-content-content-sec h3 {
+        padding-bottom: 25px;
+    }
+
+    .light-beyon-main {
+        padding: 25px 15px;
+        margin: 50px 15px 50px;
+    }
+
+    .our-content-content-sec {
+        width: 100%;
+    }
+
+    .focus-categories-card {
+        height: 200px;
+        padding: 15px;
+    }
+
+    .enhance-the-main {
+        margin: 50px 15px 50px;
+        padding: 50px 15px;
+    }
+
+    .focus-categories-card-main {
+        padding: 50px 15px;
+        background: #eee;
+    }
+
+    .faq-sec-main {
+        padding: 40px 0;
+    }
+
+
+    .custom-accordian ul.accordion-list {
+        padding: 0px;
+    }
+}
+
+@media only screen and (max-width:600px) {
+    .our-client-sec-main {
+        padding: 25px 15px;
+    }
+
+    .client-logos {
+        margin-top: 15px;
+    }
+
+    .security-customer-stamp {
+        padding: 50px 15px;
+    }
+
+    .common-content-part h3 {
+        font-size: 21px;
+        margin-bottom: 20px;
+    }
+
+    .security-customer-stamp .security-image-part img {
+        width: 60px;
+    }
+
+    .banner-slider-main p {
+        font-size: 14px;
+    }
+
+    .banner-slider-main h2.owl-title {
+        font-size: 30px;
+        padding-bottom: 10px;
+    }
+
+    .light-beyon-main .content-part {
+        width: 100%;
+        margin-top: 0px;
+    }
+
+    .enhance-the-main .content-part h2 {
+        font-size: 21px;
+    }
+
+    .enhance-the-main {
+        padding: 25px 0px;
+        margin: 25px 15px 25px;
+    }
+
+    .light-beyond-image {
+        display: none;
+    }
+
+    .content-part {
+        width: 100%;
+    }
+
+    .content-part h2 {
+        font-size: 21px;
+        width: 100%;
+    }
+
+    .focus-categories-card {
+        height: 270px;
+        border-radius: 30px;
+        margin-bottom: 25px;
+        padding: 25px;
+    }
+
+    .our-content-content-sec {
+        width: 100%;
+    }
+
+    .our-content-content-sec h3 {
+        font-size: 21px;
+        padding-bottom: 15px;
+    }
+
+    .common-image-part img {
+        height: 330px;
+        max-height: 330px;
+    }
+
+    .common-title {
+        padding: 0 0 20px;
+        font-size: 21px;
+    }
+
+    .common-content-part {
+        margin-bottom: 15px;
+    }
+
+    .client-logos {
+        height: 155px;
+        max-height: 155px;
+    }
+
+    .blog-sec-card-main .blog-sec-title h5 {
+        font-size: 21px;
+        height: 125px;
+        max-height: 125px;
+    }
+
+    .blog-sec-main {
+        padding: 30px 10px;
+    }
+
+    .blog-title {
+        padding: 0 0 20px;
+        font-size: 21px;
+    }
+
+    .focus-categories-card-main {
+        padding: 50px 15px;
+        background: #eee;
+    }
+
+    .residential-commercial-outdoor-card {
+        display: grid;
+        grid-template-columns: 100%;
+        border-radius: 30px;
+        padding: 25px;
+    }
+
+    .common-title {
+        padding: 0 0 15px;
+    }
+
+    .client-say-sec {
+        margin-bottom: 15px;
+    }
+}
+
+@media only screen and (max-width:414px) {
+    .focus-categories-card {
+        height: 245px;
+        padding: 25px;
+    }
+
+    .custom-accordian ul.accordion-list li h3 {
+        font-size: 15px;
+    }
+
+    .custom-accordian ul.accordion-list li div.answer p {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width:365px) {}
+
+@media only screen and (max-width:320px) {}
